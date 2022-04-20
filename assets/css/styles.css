@@ -218,13 +218,13 @@ img{
   color: var(--first-color);
 }
 .home__img{
-  position: absolute;
+  /*position: absolute;*/
   right: 0;
   bottom: 0;
-  width: 295px;
-  /*max-width: 100%;
+  width: 200px;
+  max-width: 100%;
   height: auto;
-  border-radius: .5rem;*/
+  border-radius: .5rem;
  
 }
 
